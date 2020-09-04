@@ -1,0 +1,11 @@
+.navbar{
+    background: #ddedfc;
+    margin-bottom: 0px;
+}
+.navbar-brand{
+    position: relative;
+    padding: 12px 5px;
+}
+.job-postings{
+    background: #eaf2fa;
+}
